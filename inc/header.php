@@ -13,6 +13,65 @@
 
 <body>
 
+    <div class="modal fade popup" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+               
+                <div>
+                    <div class="row px-3 popup-item pt-2">
+                        <div class="col-4">
+                            <div class="img">
+                                <img src="images/p2.webp" alt="not found">
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <p>Grey California</p>
+                            <p>Shoes</p>
+                            <p>$3199.00</p>
+                            <p class="text-secondary">Quantity 1</p>
+                        </div>
+                        <div class="col-2">
+                            <a href="#"><i class="bi bi-x-lg"></i></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row px-3 popup-item pt-2">
+                        <div class="col-4">
+                            <div class="img">
+                                <img src="images/p2.webp" alt="not found">
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <p>Grey California</p>
+                            <p>Shoes</p>
+                            <p>$3199.00</p>
+                            <p class="text-secondary">Quantity 1</p>
+                        </div>
+                        <div class="col-2">
+                            <a href="#"><i class="bi bi-x-lg"></i></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row py-3 px-3">
+                        <div class="col-6 ps-5 header-btn">
+                            <button > <a href="cart.php">View Cart</a></button>
+                        </div>
+
+                        <div class="col-6 ps-5 header-btn">
+                        <button > <a href="cart.php">Go to checkout</a></button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
 
     <section class="header py-3 d-flex  flex-wrap">
         <div class="header-icon ps-5">
@@ -23,7 +82,7 @@
         </div>
 
 
-        <div class="ms-auto me-5 d-flex flex-wrap">
+        <div class="ms-auto header-second me-5 d-flex flex-wrap">
 
 
             <div class="header-conatct me-5 ">
@@ -32,6 +91,9 @@
             </div>
             <div class="header-mail me-5 ">
                 <a href="#"><span class="text-orange"><i class="bi bi-envelope-fill"></i></span>&nbsp;&nbsp;shop@yourdomain.com</a>
+            </div>
+            <div class="header-btn">
+                <button><a href="login.php">Login</a></button>
             </div>
         </div>
 
@@ -78,15 +140,24 @@
 
                         </ul>
 
-  <div class="cart-icon pe-3"> 
-                         <a href=""><i class="bi bi-cart-fill"></i></a>
-                    </div> 
+                        <div class="cart-icon pe-2">
+
+
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                <i class="bi bi-cart-fill"></i>
+                            </button>
+
+
+                        </div>
 
                     </div>
-                   
+
 
                 </div>
             </div>
         </nav>
+        <!-- <div class="cart-box">
+            
+        </div> -->
 
     </section>
