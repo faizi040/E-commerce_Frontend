@@ -62,7 +62,7 @@
                         </div>
 
                         <div class="col-6 ps-5 header-btn">
-                        <button > <a href="cart.php">Go to checkout</a></button>
+                        <button > <a href="checkout.php">Go to checkout</a></button>
                         </div>
                     </div>
 

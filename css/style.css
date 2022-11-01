@@ -584,6 +584,41 @@
 
 
 
+/* checkout page styling */
+/* checkout page styling */
+/* checkout page styling */
+
+.check-card{
+  background-color: rgb(230, 225, 225);
+}
+.check-card .img{
+  width: 100px;
+  height: 80px;
+  
+}
+.check-card .img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
+.check-para{
+  background-color: rgb(211, 207, 207);
+}
+.check-form input,textarea{
+box-shadow: none !important;
+}
+.cart-check a{
+  text-decoration: none !important;
+  color: var(--light) !important;
+}
+.cart-check:hover{
+  background-color: var(--dark) !important;
+}
+
+
+
+
 
 
 

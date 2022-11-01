@@ -56,7 +56,7 @@
                 <td>$50</td>
             </tr>
         </table>
-        <button class="btn3">Proceed to Checkout</button>
+        <button class="btn3 cart-check"><a href="checkout.php">Proceed to Checkout</a></button>
     </div>
 </div>
     </div>
