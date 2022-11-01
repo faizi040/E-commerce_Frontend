@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <!-- owl-crousel -->
+    <link rel="stylesheet" href="assets/owlCrousel/dist/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="assets/owlCrousel/dist/assets/owl.theme.default.min.css">
     <title>E-commerce Store</title>
 </head>
 

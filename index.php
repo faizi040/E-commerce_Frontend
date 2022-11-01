@@ -37,7 +37,8 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
+                        </button>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5">
@@ -51,7 +52,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5">
@@ -65,7 +66,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
 
@@ -81,7 +82,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5 ">
@@ -95,7 +96,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5 ">
@@ -109,7 +110,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
 
@@ -411,7 +412,7 @@
     </section>
 
     <section class="testimon mt-5 pt-5">
-        <div class="container">
+        <!-- <div class="container">
             <h6 class="text-secondary text-center">PEOPLE SAYS</h6>
             <h1 class="fw-bold mt-3 text-center">
                 Testimonials
@@ -477,7 +478,39 @@
 
                 </div>
             </div>
+        </div> -->
+        <div class="container">
+
+      <h1 class="text-center fw-bold">Testimonials</h1>
+      <div class="owl-carousel">
+        <div class="shadow text-center p-3">
+          <div class="img rounded-circle mx-auto mt-4">
+            <img src="images/team3.webp" alt="not found">
+          </div>
+          <h3 class="fw-bold mt-3">Irene Strong</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, deserunt possimus? Illo obcaecati
+            asperiores fugit.</p>
         </div>
+        <div class="shadow text-center p-3">
+          <div class="img rounded-circle mx-auto mt-4">
+            <img src="images/team1.webp" alt="not found">
+          </div>
+          <h3 class="fw-bold mt-3">Irene Strong</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, deserunt possimus? Illo obcaecati
+            asperiores fugit.</p>
+
+        </div>
+        <div class="shadow text-center p-3">
+          <div class="img rounded-circle mx-auto mt-4">
+            <img src="images/team2.webp" alt="not found">
+          </div>
+          <h3 class="fw-bold mt-3">Irene Strong</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, deserunt possimus? Illo obcaecati
+            asperiores fugit.</p>
+        </div>
+
+      </div>
+    </div>
     </section>
 
 
@@ -535,7 +568,7 @@
 
     </section>
 
-    <section class="contact my-5 pt-5">
+    <!-- <section class="contact my-5 pt-5">
         <h6 class="text-secondary text-center ">BLOG</h6>
         <h1 class="fw-bold text-center pb-5">
             Blog Posts
@@ -591,7 +624,7 @@
 
 
 
-    </section>
+    </section> -->
 
 
     <?php include('inc/footer.php')  ?>

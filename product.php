@@ -21,7 +21,8 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
+                        </button>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5">
@@ -35,7 +36,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5">
@@ -49,7 +50,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
 
@@ -65,7 +66,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5 ">
@@ -79,7 +80,7 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 col-12 product-img mt-5 ">
@@ -93,12 +94,11 @@
                     <a href=""><span class="text-danger"><i class="bi bi-heart-fill"></i></span>&nbsp; 5.0</a>
                     <p class="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
                     <button class="  btn3 ">CART</button>
-                    <button class=" btn4 ">VIEW</button>
+                    <button class=" btn4 view-btn "><a href="view-detail.php">VIEW</a>
                 </div>
             </div>
 
         </div>
-
     </div>
 
 

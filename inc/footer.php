@@ -25,13 +25,13 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-image">
-                    <h4 class="mt-3 ms-1">Featured Product</h4>
+                    <!-- <h4 class="mt-3 ms-1">Featured Product</h4> -->
                     <div class="img mt-4">
                         <img src="images/p2.webp" alt="Not Found">
                     </div>
-                    <p class="mt-2">Leather Brown Shoe</p>
+                    <!-- <p class="mt-2">Leather Brown Shoe</p>
                     <h6 class="fw-bold mt-2">$60.00</h6>
-                    <button class="btn3 mt-2">ADD TO CART</button>
+                    <button class="btn3 mt-2">ADD TO CART</button> -->
                 </div>
             </div>
         </div>
@@ -62,8 +62,21 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
         crossorigin="anonymous"></script>
+        <script src="assets/owlCrousel/dist/owl.carousel.min.js"></script>
+<script>
 
+    $(document).ready(function () {
+      $(".owl-carousel").owlCarousel({
+        items: 2,
+        autoplay: true,
+        loop: true,
+        autoplayTimeout: 1000,
+        autoplayHoverPause: true,
+        margin: 20
 
+      });
+    });
+</script>
        
 </body>
 
