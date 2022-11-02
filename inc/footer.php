@@ -62,20 +62,26 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
         crossorigin="anonymous"></script>
-        <script src="assets/owlCrousel/dist/owl.carousel.min.js"></script>
+        <script src="assets\swiper\swiper-bundle.min.js"></script>
 <script>
 
-    $(document).ready(function () {
-      $(".owl-carousel").owlCarousel({
-        items: 2,
-        autoplay: true,
+var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 3,
+        spaceBetween: 40,
+        slidesPerGroup: 1,
         loop: true,
-        autoplayTimeout: 1000,
-        autoplayHoverPause: true,
-        margin: 20
-
+        loopFillGroupWithBlank: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
       });
-    });
+
+    
 </script>
        
 </body>
