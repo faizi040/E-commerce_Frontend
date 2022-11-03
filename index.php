@@ -412,85 +412,90 @@
 </section>
 
 <section class="testimon mt-5 pt-5">
-<h6 class="text-secondary text-center">PEOPLE SAYS</h6>
-            <h1 class="fw-bold mt-3 text-center">
-                Testimonials
-            </h1>
-            <div class="container">
-<div class="swiper mySwiper">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide">
-        <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/p3.webp" alt="Not Found">
+    <h6 class="text-secondary text-center">PEOPLE SAYS</h6>
+    <h1 class="fw-bold mt-3 text-center">
+        Testimonials
+    </h1>
+    <div class="container">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/p3.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
                     </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
                 </div>
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/team1.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/team2.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/team3.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/p3.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimon-item text-center">
+                        <div class="img">
+                            <img src="images/p1.webp" alt="Not Found">
+                        </div>
+                        <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
+                            elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
+                            repellat optio nostrum?</p>
+                        <p class="fw-bold">John Smith</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
         </div>
-        <div class="swiper-slide">
-        <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/team1.webp" alt="Not Found">
-                    </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
-                </div> </div>
-        <div class="swiper-slide">
-            <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/team2.webp" alt="Not Found">
-                    </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
-                </div></div>
-        <div class="swiper-slide">
-            <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/team3.webp" alt="Not Found">
-                    </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
-                </div></div>
-        <div class="swiper-slide">
-            <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/p3.webp" alt="Not Found">
-                    </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
-                </div> </div>
-        <div class="swiper-slide">
-            <div class="testimon-item text-center">
-                    <div class="img">
-                        <img src="images/p1.webp" alt="Not Found">
-                    </div>
-                    <p class=" text-secondary mt-5">Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. In vitae consequuntur laborum, saepe repudiandae adipisci ut magnam
-                        repellat optio nostrum?</p>
-                    <p class="fw-bold">John Smith</p>
-                </div> </div>
-       
-      </div>
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
     </div>
-    </div>
-            
-    
-                   
-            
+
+
+
+
 </section>
 
 
@@ -505,47 +510,47 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 blog-col text-center  ">
                 <div class="blog-bg pb-3">
-                <div class="img">
-                    <img src="images/p1.webp" alt="Not found">
-                </div>
-                <ul class="d-flex justify-content-evenly text-secondary me-4 list-unstyled ">
-                    <li>Ham Brook </li>
-                    <li>Nov 27,2019</li>
-                    <li>05 Comments</li>
-                </ul>
-                <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
-                    nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
-                </p>
+                    <div class="img">
+                        <img src="images/p1.webp" alt="Not found">
+                    </div>
+                    <ul class="d-flex justify-content-evenly text-secondary me-4 list-unstyled ">
+                        <li>Ham Brook </li>
+                        <li>Nov 27,2019</li>
+                        <li>05 Comments</li>
+                    </ul>
+                    <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
+                        nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 blog-col text-center ">
                 <div class="blog-bg pb-3">
-                <div class="img">
-                    <img src="images/p3.webp" alt="Not found">
-                </div>
-                <ul class="d-flex justify-content-evenly text-secondary  me-4 list-unstyled">
-                    <li>James Phelps</li>
-                    <li>Nov 27,2019</li>
-                    <li>05 Comments</li>
-                </ul>
-                <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
-                    nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
-                </p>
+                    <div class="img">
+                        <img src="images/p3.webp" alt="Not found">
+                    </div>
+                    <ul class="d-flex justify-content-evenly text-secondary  me-4 list-unstyled">
+                        <li>James Phelps</li>
+                        <li>Nov 27,2019</li>
+                        <li>05 Comments</li>
+                    </ul>
+                    <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
+                        nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 blog-col text-center blog-col-media ">
                 <div class="blog-bg pb-3">
-                <div class="img">
-                    <img src="images/team1.webp" alt="Not found">
-                </div>
-                <ul class="d-flex justify-content-evenly text-secondary  me-4 list-unstyled">
-                    <li>James Phelps</li>
-                    <li>Nov 27,2019</li>
-                    <li>05 Comments</li>
-                </ul>
-                <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
-                    nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
-                </p>
+                    <div class="img">
+                        <img src="images/team1.webp" alt="Not found">
+                    </div>
+                    <ul class="d-flex justify-content-evenly text-secondary  me-4 list-unstyled">
+                        <li>James Phelps</li>
+                        <li>Nov 27,2019</li>
+                        <li>05 Comments</li>
+                    </ul>
+                    <p class="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi
+                        nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.
+                    </p>
                 </div>
             </div>
         </div>
@@ -554,7 +559,7 @@
 
 </section>
 
-<!-- <section class="contact my-5 pt-5">
+
         <h6 class="text-secondary text-center ">BLOG</h6>
         <h1 class="fw-bold text-center pb-5">
             Blog Posts
