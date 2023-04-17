@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- oswiper-crousel -->
     <link rel="stylesheet" href="assets\swiper\swiper-bundle.min.css">
- 
+
     <title>E-commerce Store</title>
 </head>
 
@@ -23,7 +23,7 @@
                     <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-               
+
                 <div>
                     <div class="row px-3 popup-item pt-2">
                         <div class="col-4">
@@ -61,11 +61,11 @@
                     <hr>
                     <div class="row py-3 px-3">
                         <div class="col-6 ps-5 header-btn">
-                            <button > <a href="cart.php">View Cart</a></button>
+                            <button> <a href="cart.php">View Cart</a></button>
                         </div>
 
                         <div class="col-6 ps-5 header-btn">
-                        <button > <a href="checkout.php">Go to checkout</a></button>
+                            <button> <a href="checkout.php">Go to checkout</a></button>
                         </div>
                     </div>
 
@@ -105,9 +105,9 @@
     <section class="mynav bg-white">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand ms-5" href="#">
-                    <h1 class="fw-bold">Selling.</h1>
-                </a>
+                <div class=" nav-icon ms-5">
+                    <img src="images/icon.png" alt="Not Found">
+                </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>

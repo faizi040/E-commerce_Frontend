@@ -1,6 +1,13 @@
 <section class="footer mt-5 pt-5">
         <div class="container">
             <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-image">
+                    
+                    <div class="img mt-4">
+                        <img src="images/logo1.png" alt="Not Found">
+                    </div>
+                    
+                </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <h4 class="mt-3">About us</h4>
                     <p class="text-secondary mt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam unde
@@ -24,15 +31,7 @@
                         <a href="#" class="mx-1"><i class="bi bi-linkedin"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-image">
-                    <!-- <h4 class="mt-3 ms-1">Featured Product</h4> -->
-                    <div class="img mt-4">
-                        <img src="images/p2.webp" alt="Not Found">
-                    </div>
-                    <!-- <p class="mt-2">Leather Brown Shoe</p>
-                    <h6 class="fw-bold mt-2">$60.00</h6>
-                    <button class="btn3 mt-2">ADD TO CART</button> -->
-                </div>
+                
             </div>
         </div>
     </section>

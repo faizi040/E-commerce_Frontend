@@ -12,7 +12,7 @@
         <p> Laboriosam assumenda ea quo cupiditate facere
             deleniti fuga officia.</p>
         <button class="  fw-bold btn1">SHOP NOW</button>
-        <button class=" fw-bold btn2">CLUB MEMBERSHIP</button>
+        <!-- <button class=" fw-bold btn2">CLUB MEMBERSHIP</button> -->
     </div>
 </section>
 
@@ -164,7 +164,7 @@
             </p>
             <h4>Price:</h4>
             <p class="text-secondary"><del>$269.00</del> &nbsp;&nbsp;&nbsp; $69.00</p>
-            <button class="btn4">VIEW DETAILS</button>
+            <!-- <button class="btn4">VIEW DETAILS</button> -->
             <button class="btn3">ADD TO CART</button>
         </div>
     </div>
@@ -182,7 +182,7 @@
             </p>
             <h4>Price:</h4>
             <p class="text-secondary"><del>$269.00</del> &nbsp;&nbsp;&nbsp; $69.00</p>
-            <button class="btn4">VIEW DETAILS</button>
+            <!-- <button class="btn4">VIEW DETAILS</button> -->
             <button class="btn3">ADD TO CART</button>
         </div>
 
@@ -241,7 +241,7 @@
                 <img src="images/team1.webp" alt="Not found">
             </div>
             <h6 class="text-secondary mt-4">John Rooster</h6>
-            <h6 class=" mt-4">CO-FOUNDER, PRESIDENT</h6>
+            <h6 class=" mt-4 text-secondary">CO-FOUNDER, PRESIDENT</h6>
             <p class="text-secondary mt-4">Nisi at consequatur unde molestiae quidem provident voluptatum deleniti
                 quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt
                 tenetur.</p>
@@ -305,8 +305,7 @@
     </div>
     <div class="form-text text-center">
         <h1 class="fw-bold mb-4">Summer Sale</h1>
-        <p>Repudiandae nostrum natus excepturi fuga ullam accusantium vel ut</p>
-        <p>eveniet aut consequatur laboriosam ipsam.</p>
+
         <div class="d-flex flex-wrap justify-content-center mt-4">
             <div class="special-box bg-light mx-3">
                 <h1 class="mt-2">00</h1>
@@ -346,62 +345,62 @@
     </h1>
     <div class="row mt-5">
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-pie-chart-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-pie-chart-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">Business Consulting</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="service-blog.php">Learn More</a></button>
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-backspace-reverse-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-backspace-reverse-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">Market Analysis</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="#">Learn More</a></button>
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-alarm-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-alarm-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">User Monitoring</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="#">Learn More</a></button>
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-bookmark-check-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-bookmark-check-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">Seller Consulting</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="#">Learn More</a></button>
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-briefcase-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-briefcase-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">Financial Investment</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="#">Learn More</a></button>
             </div>
 
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12 service-icon d-flex ">
-            <a href=""><i class="bi bi-cloud-check-fill"></i></a>
+            <a href="" class="service-a"><i class="bi bi-cloud-check-fill"></i></a>
             <div class="mx-4 mt-2">
                 <h4 class="text-secondary">Financial Management</h4>
                 <p class="mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae
                     vitae eligendi at.</p>
-                <h6 class="mt-4">Learn More</h6>
+                <button class="service-btn my-3"><a href="#">Learn More</a></button>
             </div>
 
         </div>
@@ -560,62 +559,14 @@
 </section>
 
 
-        <h6 class="text-secondary text-center ">BLOG</h6>
-        <h1 class="fw-bold text-center pb-5">
-            Blog Posts
-        </h1>
-        <div class="container contact-form">
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-6 col-md-9 col-sm-12 col-12">
-
-                    <div class="row d-flex justify-content-center">
-                        <h3 class="mb-3">Contact Form</h3>
-                        <div class="col-lg-6 col-md-9 col-sm-12 col-12">
-                            <div class="form-group mb-3">
-                                <label for="fname">First Name</label>
-                                <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-9 col-sm-12 col-12">
-                            <div class="form-group mb-3">
-                                <label for="lname">Last Name</label>
-                                <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-                            </div>
-                        </div>
-                        <div class="col-lg-12 col-md-9 col-sm-12 col-12">
-                            <div class="form-group mb-3">
-                                <label for="email">E-mail</label>
-                                <input type="email" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-                            </div>
-                        </div>
-                        <div class="col-lg-12 col-md-9 col-sm-12 col-12">
-                            <div class="form-group mb-3">
-                                <label for="subject">Subject</label>
-                                <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-                            </div>
-                        </div>
-                        <div class="col-lg-12 col-md-9 col-sm-12 col-12">
-                            <div class="form-group mb-4">
-                                <label for="text">Message</label>
-                                <textarea class="form-control" aria-label="With textarea"></textarea>
-                            </div>
-                        </div>
-                        <div>
-                            <button class="btn3">SEND MESSAGE</button>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-        </div>
 
 
 
 
 
 
-    </section> -->
+
+
 
 
 <?php include('inc/footer.php')  ?>
