@@ -38,7 +38,7 @@
 
     <section class="copyright text-center text-secondary mt-5 mb-4">
         <p>Copyright &copy; All rights reserved | This website is designed & developed by
-            <a href="" class="text-secondary">Micrologicx </a>
+            <a href="" class="text-secondary">Faizi040 </a>
         </p>
     </section>
 
